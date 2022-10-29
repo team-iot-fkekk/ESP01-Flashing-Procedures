@@ -6,7 +6,7 @@
 3. 1x Female-to-Female jumper wire
    
 ### Software
-1. ESP8266 Flash Tools. Download zip file at [flash tools](./flash%20tools/).
+1. ESP8266 Flash Tools. Download zip file at [Flash_Tools folder](./flash_tools/ESP8266_%20Flash_Tool.zip).
 2. Arduino IDE or other Serial Monitor software.
 
 ## Steps
