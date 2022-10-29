@@ -1,5 +1,4 @@
 # ESP01 Flashing Procedures 
-***
 ## Requirements
 ### Hardware
 1. ESP01 Programmer Adapter. Available at [Cytron.io](https://my.cytron.io/p-esp01-usb-programmer-adapter).
