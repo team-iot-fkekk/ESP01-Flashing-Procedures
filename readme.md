@@ -17,37 +17,37 @@
 5. Change the settings according to the picture.
       
 
-![flash tool interface](./images/1.png)
+    ![flash tool interface](./images/1.png)
 
-> Change the COM port accoding to your board connection. You can check from computer "Device Manager".
+    > Change the COM port accoding to your board connection. You can check from computer "Device Manager".
 
-> The file can be accessed from the flash tool folder
+    > The file can be accessed from the flash tool folder
 
 6. Press **START**. The board is being programmed. Close the tool when finished.
 7. Open Arduino IDE. Change the COM port to your board's port.
 
-![Setting COM port](images/2.png)
+    ![Setting COM port](images/2.png)
 
 8. Open Serial Monitor
 
-![Open Serial Monitor](images/3.png)
+    ![Open Serial Monitor](images/3.png)
 
 9.  Disconnect the jumper wire at the programmer Adapter. Then press the RST button.
 
-![RST button](images/4.png) 
+    ![RST button](images/4.png) 
 
 10. At the Serial Monitor, change to "Both NL & CR" and "115200 baud"
 
-![nl-cr-baud](images/5.png)
+    ![nl-cr-baud](images/5.png)
 
 11. Type ```AT``` and press enter
 
-![AT](images/6.png)
+    ![AT](images/6.png)
 
 12. Type ```AT+GMR``` and press enter
 
-![ATGMR](images/7.png)
+    ![ATGMR](images/7.png)
 
 13. Type ```AT+UART_DEF=9600,8,1,0,0``` and press enter to change the baud rate to 9600.
     
-![ATUARTDEF](images/8.png)
+    ![ATUARTDEF](images/8.png)
