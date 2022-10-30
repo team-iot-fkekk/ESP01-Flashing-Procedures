@@ -13,7 +13,7 @@
 1. Connect the ESP8266 to the Programmer Adapter
 2. Connect the pin IO0 to GND using the jumper wire
    
-    ![](images/0.png)
+    > IO0 <--> GND
     
 3. Extract the ESP8266 Flash Tools.
 4. Go to folder "FLASH_TOOL" and click the "ESP_DOWNLOAD_TOOL_V2.4.exe"
